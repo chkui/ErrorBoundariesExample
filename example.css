@@ -1,0 +1,29 @@
+html {
+    font-family: Hiragino Sans GB, Open Sans, Arial, Microsoft YaHei, \\5FAE\8F6F\96C5\9ED1, STHeiti, WenQuanYi Micro Hei, SimSun, sans-serif;
+    font-size: 20px;
+}
+
+body * {
+    box-sizing: border-box;
+}
+
+.app {
+    text-align: center;
+}
+
+.button {
+    margin: 0 1rem;
+    background: #fff;
+    color: #999;
+    border: 0;
+    width: 6rem;
+    height: 2rem;
+    box-shadow: 2px 2px 11px 2px rgba(0, 0, 0, .17);
+    cursor: pointer;
+}
+.box{
+    margin: 1rem 0;
+    display: inline-block;
+    width: 75%;
+    border: .05rem dashed #999;
+}

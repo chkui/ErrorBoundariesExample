@@ -1,1 +1,1 @@
-An Example for React Error Boundaries future
+An Example for React Error Boundaries future!
